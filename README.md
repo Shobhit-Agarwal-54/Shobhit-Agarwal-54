@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shobhit Agarwal</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate Full-Stack Developer and lifelong learner, building real-world solutions with code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shobhit-agarwal-54&label=Profile%20views&color=0e75b6&style=flat" alt="shobhit-agarwal-54" /> </p>
 
